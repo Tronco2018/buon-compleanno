@@ -1,0 +1,44 @@
+.compleanno{
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+body{
+    background-color: black;
+
+}
+.linea{
+    
+    height: 7px;
+    border-radius: 10px;
+    background-color: blueviolet;
+
+
+}
+.bird{ /*pk si chiama bird?*/
+    height: 300px;
+    border-radius: 10px;
+}
+.oye{
+    color: blueviolet;
+    padding-left: 10px;
+    font-family: sans-serif; /*bruh è identico a arial*/
+
+}
+
+.divImg{
+    display: flex;
+
+}
+.auguri{
+    color: blueviolet;
+    position:absolute;
+    top:230px;
+    left:320px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    background-image: url(essigode.jpg);
+    background-size: 70%;
+}
